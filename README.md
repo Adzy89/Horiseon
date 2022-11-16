@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
@@ -156,3 +157,6 @@ You are required to submit the following for review:
 
 ---
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+=======
+# hwwk1
+>>>>>>> 995a13212f9735e6fd925058d7ae8f2669ec28a5
