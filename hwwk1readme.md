@@ -6,7 +6,7 @@ This page has images, an navigation bar, tables and context, colors layered in c
 
 ## Screenshot
 
-![screenshot of horiseon](/hwwk1/Assets/01-html-css-git-homework-demo.png)
+![screenshot of horiseon](01-html-css-git-homework-demo.png)
 
 ## Installation
 
