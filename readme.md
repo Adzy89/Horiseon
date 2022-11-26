@@ -30,9 +30,9 @@ html and css edited by Adzy89
 ## links
 
 live Webpage
-https://adzy89.github.io/hwwk1/
+https://adzy89.github.io/Horiseon/
 
 
 Github
-https://github.com/Adzy89/hwwk1
+https://github.com/Adzy89/Horiseon
 
